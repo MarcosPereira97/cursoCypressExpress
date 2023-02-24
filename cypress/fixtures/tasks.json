@@ -1,0 +1,18 @@
+{
+    "duplicada": {
+        "name": "Estudar Typescript",
+        "is_done": false
+    },
+    "remove": {
+        "name": "Estudar Javascript",
+        "is_done": false
+    },
+    "atualizar": {
+        "name": "Pagar contas de consumo",
+        "is_done": false
+    },
+    "adiciona": {
+        "name": "Ler um livro de Node.js",
+        "is_done": false
+    }
+}
